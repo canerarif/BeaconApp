@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_93f9f0fc01ff672806b226217ba94e705a0dacc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="862679f96151949a102d37b018d962961019dc65">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.2.2_bf5106144ed522bd1f9579ffe8dda863b5622c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a294c244e437cd6cdee67f297b397d2a02ab86e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_19625dd26d482d189042e21d48f3211bdb6de037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_21a08e06c1ea0df07311d55e6b7be97e09476b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_15ac8cdc7ab86b3aa43f0d72bbd4ff6b197578ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_eb29bef8597a0c84c03d27ca7718deb2ca9f1f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_07117cd43b91fe485fa652af11dba28d91da274f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="148bee2f5bfe81a24e02e036a9165fffb3d94fbb">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\instant-run_7254f13a64d015529ce0d605726758f85b1e0b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bb89e16c6417653cb0b498518ca492bc72f0f877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a1491518855c975969ca09e88a5492afbba031a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_339df50207ce737128ce793bf1f14639dbd40db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d8f3fe02941dd0836e77dc994363bfef642c2ef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_bd99134b55fa9db4851b10745fd81f8834c73d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.estimote\sdk\0.9.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e3f2bd7d626b065e0960be2404e0af133e7b179b">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.estimote-sdk-0.9.4_1812fe7a5fe665047be1be050fb30299a94de9a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_519cbb761a6eb7626efdb5880d025cdbc1f148d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76694bbb8577217398c2f0d119dfcc35288524da">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_300f45a21a4d5bebb289e12fc5b3ea9e1ed2470e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1b79b38e66f843193b3aa5d0daf59fa37909f9b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Caner\AndroidStudioProjects\Beacon_App\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_4164399fc8959d6fa6712cc5518b6833b76db711.jar" />
+    </item>
+
+</items>
