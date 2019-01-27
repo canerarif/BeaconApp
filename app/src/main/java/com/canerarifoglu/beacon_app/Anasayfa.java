@@ -46,7 +46,7 @@ public class Anasayfa extends AppCompatActivity {
         tv2=(TextView)findViewById(R.id.textview2);
         tv3=(TextView)findViewById(R.id.textview3);
 
-        sp=(Spinner) findViewById(R.id.spinner);
+        sp=(Spinner) findViewById(R.id.spinner);   
         sp1=(Spinner) findViewById(R.id.spinner1);
         sp2=(Spinner) findViewById(R.id.spinner2);
 
